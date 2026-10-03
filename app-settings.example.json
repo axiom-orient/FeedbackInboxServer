@@ -1,0 +1,11 @@
+{
+  "workerName": "REPLACE_WITH_APP_SLUG-feedback",
+  "appID": "REPLACE_WITH_ACTUAL_BUNDLE_ID",
+  "appName": "REPLACE_WITH_APP_NAME",
+  "databaseName": "REPLACE_WITH_SEPARATE_DATABASE_NAME",
+  "databaseID": "REPLACE_WITH_NEW_D1_UUID",
+  "accessTeamDomain": "REPLACE_WITH_TEAM.cloudflareaccess.com",
+  "accessAudience": "REPLACE_WITH_THIS_APP_ACCESS_AUDIENCE",
+  "operatorEmail": "REPLACE_WITH_OPERATOR_EMAIL",
+  "aiTriage": false
+}
